@@ -1,0 +1,3 @@
+array
+open new file
+
